@@ -1,7 +1,3 @@
-Här är en förbättrad, mer professionell och snygg README i tydlig struktur, bättre språk och renare tabeller 👇
-
----
-
 # 📦 MidgardCore
 
 **MidgardCore** är ett avancerat och optimerat kärnplugin utvecklat specifikt för Minecraft-servern **Midgard**. Pluginet samlar serverns mest centrala system i en enhetlig lösning – vilket eliminerar behovet av många separata plugins.
