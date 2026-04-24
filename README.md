@@ -15,6 +15,12 @@ MidgardCore är byggt för att vara **skalbart, konfigurerbart och redo för st�
 
 ---
 
+# 🎥 Video
+
+[![Se MidgardCore på YouTube](https://img.youtube.com/vi/KuJudqwtOqs/maxresdefault.jpg)](https://www.youtube.com/watch?v=KuJudqwtOqs)
+
+---
+
 # 📚 Innehåll
 
 * Kommandon
@@ -212,7 +218,7 @@ MidgardCore är byggt för att vara **skalbart, konfigurerbart och redo för st�
 
 * Blockerar ord med valbara straff
 * Stöd för leetspeak (t.ex. siffror istället för bokstäver)
-* Fungerar i chat, skyltar, anvil, böcker
+* Fungerar i chat, privata meddelanden, skyltar, anvil och böcker
 * Staff kan se filtrerade meddelanden i realtid
 * Loggar sparas i fil eller MySQL
 
@@ -250,5 +256,3 @@ MidgardCore är byggt för att vara **skalbart, konfigurerbart och redo för st�
 * Automatisk cleanup
 
 ---
-
-Vill du att jag gör den ännu mer “premium” (typ som stora plugins på Spigot med badges, färger, emojis + bättre GitHub-layout) eller mer minimalistisk?
