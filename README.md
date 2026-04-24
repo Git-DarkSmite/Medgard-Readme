@@ -17,7 +17,7 @@ MidgardCore är byggt för att vara **skalbart, konfigurerbart och redo för st�
 
 # 🎥 Video
 
-[![Se MidgardCore på YouTube](https://img.youtube.com/vi/KuJudqwtOqs/maxresdefault.jpg)](https://www.youtube.com/watch?v=KuJudqwtOqs)
+[<img src="https://img.youtube.com/vi/KuJudqwtOqs/maxresdefault.jpg" alt="Se MidgardCore på YouTube" width="480">](https://www.youtube.com/watch?v=KuJudqwtOqs)
 
 ---
 
